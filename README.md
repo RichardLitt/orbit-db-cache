@@ -1,6 +1,14 @@
 ## orbit-db-cache
 
+> Local cache for orbit-db
+
 Isomorphic cache used by `orbit-db`, implemented using `level.js` (indexedDB) for the browser and `leveldown` (leveldb) for node.
+
+### Install
+
+```sh
+$ npm install orbit-db-cache
+```
 
 ### Used in
 
